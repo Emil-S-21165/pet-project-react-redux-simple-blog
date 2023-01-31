@@ -1,3 +1,12 @@
+https://pet-project-react-redux-simple-blog.vercel.app/
+
+This pet project is all about creating a simple post. The project is made on functional components, using React Hooks, Redux Toolkit. The following functionality has been implemented: adding a new post (by author, reflecting how much time has passed since the creation of the post and reactions)
+
+----------------------------------------------------------------------------------------
+Этот пет проект по созданию простого поста. Проект сделан на функциональных компонентах, с использованием React Hooks, Redux Toolkit. Реализован следующий функционал: добавление нового поста (по автору, отражающее сколько времени прошло с момента создания поста и реакциями)
+___________________________________________________________________________________
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
