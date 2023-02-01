@@ -9,7 +9,7 @@ const TimeAgo = ({ timestamp }) => {
     }
 
     return (
-      <span>
+      <span title={timestamp}>
         &nbsp; <i>{timeAgo}</i>
       </span>
   )
